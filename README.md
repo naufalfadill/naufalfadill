@@ -81,9 +81,9 @@ Currently studying Computer Engineering with an interest in **Networking, IoT, H
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/)
-- 📧 Email: `your-email@example.com`
-- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- 💼 LinkedIn: Naufal Fadillah Akbar(https://www.linkedin.com/in/naufalfadillahakbar/)
+- 📧 Email: `naufalnaufal006@gmail.com`
+
 
 ---
 
