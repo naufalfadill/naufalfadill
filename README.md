@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👋 Hi, I'm Fadil
 
-<!--
-**naufalfadill/naufalfadill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Engineering Student | 🌐 Networking | 🤖 Internet of Things
 
-Here are some ideas to get you started:
+I'm a **Computer Engineering student** with an interest in **Computer Networking, Internet of Things (IoT), and IT Infrastructure**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning about computer networks, configuring network devices, troubleshooting hardware and software, and developing IoT systems using microcontrollers and sensors.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering Student
+- 🌐 Interested in **Computer Networking**
+- 🤖 Interested in **Internet of Things (IoT)**
+- 🔧 Interested in **IT Support & Troubleshooting**
+- 💻 Exploring **Embedded Systems & Microcontrollers**
+- 📚 Always learning and improving my technical skills
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🌐 Networking
+
+- Computer Networking
+- TCP/IP
+- IP Addressing
+- Subnetting
+- Network Topology
+- Router & Switch
+- Basic MikroTik Configuration
+- LAN & Wireless Networking
+- Network Troubleshooting
+
+### 🤖 Internet of Things
+
+- ESP32
+- Arduino
+- Sensors & Actuators
+- IoT Development
+- Embedded Systems
+- Web Server
+- Hardware & Software Integration
+- Automation Systems
+
+### 💻 Programming & Tools
+
+- C / C++
+- HTML
+- CSS
+- JavaScript
+- Arduino IDE
+- PlatformIO
+- Visual Studio Code
+- Git
+- GitHub
+
+---
+
+## 🔧 Hardware
+
+- ESP32
+- Arduino
+- Sensors
+- Relay Modules
+- LCD / OLED
+- DHT11
+- PZEM-004T
+- Various electronic components
+
+---
+
+## 📚 Education
+
+**S1 Sistem Komputer**
+
+Currently studying Computer Engineering with an interest in **Networking, IoT, Hardware, and IT Infrastructure**.
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/)
+- 📧 Email: `your-email@example.com`
+- 🐙 GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+
+---
+
+### 🚀 Keep Learning, Keep Building.
