@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fadil
+# 👋 Hi, I'm Fadill
 
 ### 💻 Computer Engineering Student | 🌐 Networking | 🤖 Internet of Things
 
@@ -81,8 +81,9 @@ Currently studying Computer Engineering with an interest in **Networking, IoT, H
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: Naufal Fadillah Akbar(https://www.linkedin.com/in/naufalfadillahakbar/)
-- 📧 Email: `naufalnaufal006@gmail.com`
+- LinkedIn  : Naufal Fadillah Akbar(https://www.linkedin.com/in/naufalfadillahakbar/)
+- Email     : `naufalnaufal006@gmail.com`
+- Instagram : naufalfadill.19
 
 
 ---
